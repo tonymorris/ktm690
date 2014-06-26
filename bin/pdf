@@ -1,0 +1,12 @@
+#!/bin/sh
+
+set -e
+
+mkdir -p dist
+
+for doc in purchase-cost
+do
+  echo "$doc"
+  pandoc "$doc".md -o dist/"$doc".pdf --tab-stop=2
+done
+
