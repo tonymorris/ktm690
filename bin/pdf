@@ -4,7 +4,7 @@ set -e
 
 mkdir -p dist
 
-for doc in purchase-cost
+for doc in purchase-cost smc-conversion
 do
   echo "$doc"
   pandoc "$doc".md -o dist/"$doc".pdf --tab-stop=2
