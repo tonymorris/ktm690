@@ -9,6 +9,20 @@ KTM 690 Enduro R Parts
 
 # Exhaust
 
+* Akrapovic
+
+* [Wings](http://wingsexhausts.com.au/price_chart_9.html)
+
+* Leo Vince
+
+* GPR
+
+* FMF
+
+  * [4.1 Slip-on](http://www.ktmtwins.com/fmf-ktm-690-41-slipon-exhaust)
+
+  * [Powercore](http://www.ktmtwins.com/fmf-ktm-690-exhaust)
+
 # Quickshifter
 
 # Long Range Tank
@@ -16,6 +30,8 @@ KTM 690 Enduro R Parts
 # Seat
 
 # Screen
+
+# Tail Tidy
 
 # Rear Turn Signals
 
