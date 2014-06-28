@@ -21,6 +21,8 @@ KTM 690 Enduro R Parts
 
   * [4.1 Slip-on](http://www.ktmtwins.com/fmf-ktm-690-41-slipon-exhaust)
 
+  * Does `045229` fit?
+
   * [Powercore](http://www.ktmtwins.com/fmf-ktm-690-exhaust)
 
 # Quickshifter
@@ -46,6 +48,10 @@ KTM 690 Enduro R Parts
 # Air Pre-cleaner
 
 # Axle Sliders
+
+# Swingarm Spools
+
+* [Puig](http://mototoys.com.au/shop/650/122/ktm/690-supermoto-r/puig-ktm-swingarm-lifter-spool-set-detail.html) AUD39.00
 
 # Pivot Pegz
 
