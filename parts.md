@@ -3,11 +3,17 @@ KTM 690 Enduro R Parts
 
 # Steering Damper
 
+# Supermotard Kit 
+
 # Exhaust
 
 # Quickshifter
 
 # Long Range Tank
+
+# Seat
+
+# Screen
 
 # Rear Turn Signals
 
