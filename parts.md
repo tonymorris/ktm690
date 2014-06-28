@@ -13,3 +13,5 @@ KTM 690 Enduro R Parts
 
 * [Sicass Racing 22-100c](http://sicassracing.com/store/turn_signals/led/orange_lens_led_flat_mount_ktm?cPath=105_46_2222) USD44.98
 
+# Skid plate
+
