@@ -1,6 +1,8 @@
 KTM 690 Enduro R Parts
 ======================
 
+*[KTM Twins parts for Enduro R](http://www.ktmtwins.com/ktm-690-parts/ktm-690-enduro-parts)
+
 # Steering Damper
 
 * [GPR v4 (9001-0071)](http://www.gprstabilizer.com/shopping_dirtbikes_ktm_690-enduro-r_12-14)
