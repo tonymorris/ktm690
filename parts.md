@@ -15,3 +15,13 @@ KTM 690 Enduro R Parts
 
 # Skid plate
 
+# Heated Grips
+
+# Carry Bags
+
+# Air Pre-cleaner
+
+# Axle Sliders
+
+# Pivot Pegz
+
