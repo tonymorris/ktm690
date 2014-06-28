@@ -3,7 +3,7 @@ KTM 690 Enduro R Parts
 
 # Steering Damper
 
-* [GPR v4](http://www.gprstabilizer.com/shopping_dirtbikes_ktm_690-enduro-r_12-14)
+* [GPR v4 (9001-0071)](http://www.gprstabilizer.com/shopping_dirtbikes_ktm_690-enduro-r_12-14)
 
 # Supermotard Kit 
 
