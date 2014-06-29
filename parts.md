@@ -61,9 +61,15 @@ KTM 690 Enduro R Parts
 
 # Skid plate
 
+  * [Flatland Racing](http://flatlandracing.com/Merchant2/merchant.mvc?Screen=PROD&Store_Code=FR&Product_Code=24-46) **USD95.00**
+
 # Heated Grips
 
 # Carry Bags / Panniers
+
+  * [perunmoto.com](http://www.perunmoto.com/collections/ktm-690-enduro-enduro-r/products/soft-luggage-and-rotopax-add-on-plate-for-tt-racks) **USD150.00**
+
+  * [Rally Raid Soft Luggage Carrier System RRP-123](http://www.ktmtwins.com/rally-raid-ktm-690-enduro-smc-soft-luggage-carrier-system) **USD391.93**
 
 # Air Pre-cleaner
 
