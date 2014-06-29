@@ -7,6 +7,8 @@ KTM 690 Enduro R Parts
 
   * [KTM Twins](http://www.ktmtwins.com/ktm-60312953000) **USD109.99**
 
+  * [Highway Performance Bikes](http://highway.hdspares.com.au/index.php?main_page=product_info&products_id=943668) **AUD134.99**
+
 # Steering Damper
 
   * [GPR v4 (9001-0071)](http://www.gprstabilizer.com/shopping_dirtbikes_ktm_690-enduro-r_12-14)
