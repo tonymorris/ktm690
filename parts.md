@@ -17,6 +17,10 @@ KTM 690 Enduro R Parts
 
 # Supermotard Kit 
 
+  * Front wheel 7500900104430 (?)
+
+  * Rear wheel 7501020104430 (?)
+
 # Exhaust
 
   * Akrapovic
