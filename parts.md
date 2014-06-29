@@ -37,7 +37,7 @@ KTM 690 Enduro R Parts
 
 # Quickshifter
 
-  * hmquickshifter
+  * ~~hmquickshifter~~ *(not available for 2014 690E)*
 
   * KLS Quickshifter MQS
 
