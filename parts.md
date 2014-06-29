@@ -29,7 +29,13 @@ KTM 690 Enduro R Parts
 
 # Quickshifter
 
+* hmquickshifter
+
+* KLS Quickshifter MQS
+
 # Long Range Tank
+
+# Short Levers
 
 # Seat
 
