@@ -59,7 +59,7 @@ KTM 690 Enduro R Parts
 
 # Heated Grips
 
-# Carry Bags
+# Carry Bags / Panniers
 
 # Air Pre-cleaner
 
