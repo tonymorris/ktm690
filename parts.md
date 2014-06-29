@@ -85,5 +85,7 @@ KTM 690 Enduro R Parts
 
 # Tank bolt
 
+  * [perunmoto.com](http://www.perunmoto.com/collections/ktm-690-enduro-enduro-r/products/ktm-690-subframe-tank-reinforcement-kit)
+
   * http://advrider.com/forums/showthread.php?t=954935
 
