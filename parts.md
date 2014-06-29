@@ -69,3 +69,9 @@ KTM 690 Enduro R Parts
 
 # Plastics Kit
 
+# Bag
+
+  * [Spare Tube Bag](http://dirt-bike-gear.com/stb.html) **USD27.50**
+
+  * [Number Plate Bag](http://dirt-bike-gear.com/npb.html) **USD50.00**
+
