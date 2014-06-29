@@ -83,3 +83,7 @@ KTM 690 Enduro R Parts
 
   * [Number Plate Bag](http://dirt-bike-gear.com/npb.html) **USD50.00**
 
+# Tank bolt
+
+  * http://advrider.com/forums/showthread.php?t=954935
+
