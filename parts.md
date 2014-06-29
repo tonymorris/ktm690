@@ -71,7 +71,11 @@ KTM 690 Enduro R Parts
 
   * [Rally Raid Soft Luggage Carrier System RRP-123](http://www.ktmtwins.com/rally-raid-ktm-690-enduro-smc-soft-luggage-carrier-system) **USD391.93**
 
-# Air Pre-cleaner
+# Air intake
+
+  * [Unifilter foam](http://www.uniflow.com.au/contents/en-us/d73.html) **AUD58.50**
+
+  * [Unifilter foam](http://www.ktm-parts.com/76506115000.html#.U7CDN_6HYSI) **USD104.99**
 
 # Axle Sliders
 
