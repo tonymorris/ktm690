@@ -49,6 +49,8 @@ KTM 690 Enduro R Parts
 
 # Short Levers
 
+  * Motion Pro (but are they short?)
+
 # Seat
  
   * Renazco
