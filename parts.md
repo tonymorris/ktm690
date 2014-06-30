@@ -83,6 +83,8 @@ KTM 690 Enduro R Parts
 
   * [Unifilter foam](http://www.ktm-parts.com/76506115000.html#.U7CDN_6HYSI) **USD104.99**
 
+  * [Unifilter foam](http://www.ktmtwins.com/uni-ktm-690-enduro-smc-air-filter) **USD49.99**
+
 # Axle Sliders
 
 # Swingarm Spools
