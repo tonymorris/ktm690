@@ -24,7 +24,7 @@ White
 
 ### Registration
 
-?
+`238LM`
 
 ### Purchase date
 
@@ -32,7 +32,7 @@ White
 
 ### Key code
 
-?
+`8901`
 
 ### Dealer
 
@@ -48,15 +48,15 @@ Licence: 1803685
 
 ABN: 19066876793
 
-Customer No: MOR194
+Customer No: MOR094
 
-Stock No: ?
+Stock No: 216501
 
-Salesperson: ?
+Salesperson: Richard McKibben
 
 ### Tyres
 
-Front ?
+Front 90/90-21 Metzeler Enduro 3
 
-Rear ?
+Rear 140/80-18 Metzeler Enduro 3
 
