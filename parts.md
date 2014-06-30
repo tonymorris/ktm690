@@ -61,6 +61,8 @@ KTM 690 Enduro R Parts
 
 # Tail Tidy
 
+  * [Sicass 21-690](http://sicassracing.com/store/products/tail_lights/sicass_easy_fit/ktm_690_easy_fit_under_fender)
+
 # Rear Turn Signals
 
   * [Sicass Racing 22-100c](http://sicassracing.com/store/turn_signals/led/orange_lens_led_flat_mount_ktm?cPath=105_46_2222) **USD44.98**
