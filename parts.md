@@ -50,6 +50,8 @@ KTM 690 Enduro R Parts
 # Short Levers
 
 # Seat
+ 
+  * Renazco
 
 # Screen
 
