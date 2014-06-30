@@ -29,6 +29,8 @@ KTM 690 Enduro R Parts
 
   * Leo Vince
 
+  * Barrett
+
   * GPR
 
   * FMF
