@@ -20,6 +20,8 @@
 
   * [Unifilter](http://www.ktmtwins.com/uni-ktm-690-enduro-smc-air-filter) **USD49.99**
 
+  * front axle sliders
+  
 # dirt-bike-gear.com
 
   * [Number Plate Bag](http://dirt-bike-gear.com/npb.html) **USD50.00**
