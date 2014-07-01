@@ -73,6 +73,10 @@ KTM 690 Enduro R Parts
 
 # Heated Grips
 
+  * Oxford
+
+    * [ktm-twins.com](http://www.ktmtwins.com/oxford-ktm-heated-grip-set) USD84.99 
+
 # Carry Bags / Panniers
 
   * [perunmoto.com](http://www.perunmoto.com/collections/ktm-690-enduro-enduro-r/products/soft-luggage-and-rotopax-add-on-plate-for-tt-racks) **USD150.00**
@@ -81,11 +85,13 @@ KTM 690 Enduro R Parts
 
 # Air intake
 
-  * [Unifilter foam](http://www.uniflow.com.au/contents/en-us/d73.html) **AUD58.50**
+  * Unfilter foam
 
-  * [Unifilter foam](http://www.ktm-parts.com/76506115000.html#.U7CDN_6HYSI) **USD104.99**
+    * [uniflow.com.au](http://www.uniflow.com.au/contents/en-us/d73.html) **AUD58.50**
 
-  * [Unifilter foam](http://www.ktmtwins.com/uni-ktm-690-enduro-smc-air-filter) **USD49.99**
+    * [ktm-parts.com](http://www.ktm-parts.com/76506115000.html#.U7CDN_6HYSI) **USD104.99**
+
+    * [ktm-twins.com](http://www.ktmtwins.com/uni-ktm-690-enduro-smc-air-filter) **USD49.99**
 
 # Axle Sliders
 
