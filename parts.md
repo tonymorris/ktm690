@@ -3,6 +3,8 @@ KTM 690 Enduro R Parts
 
 * [KTM Twins parts for Enduro R](http://www.ktmtwins.com/ktm-690-parts/ktm-690-enduro-parts)
 
+# Service Manual 3206153
+
 # Dongle 60312953000
 
   * [KTM Twins](http://www.ktmtwins.com/ktm-60312953000) **USD109.99**
