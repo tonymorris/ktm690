@@ -25,3 +25,8 @@
 # dirt-bike-gear.com
 
   * [Number Plate Bag](http://dirt-bike-gear.com/npb.html) **USD50.00**
+
+# flatlandracing.com
+
+  * [Skid Plate](http://flatlandracing.com/Merchant2/merchant.mvc?Screen=PROD&Store_Code=FR&Product_Code=24-46) **USD95.00**
+
