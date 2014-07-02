@@ -3,13 +3,15 @@ KTM 690 Enduro R Parts
 
 * [KTM Twins parts for Enduro R](http://www.ktmtwins.com/ktm-690-parts/ktm-690-enduro-parts)
 
-# Service Manual 3206153
+# Service Manual 3206193
+
+  * [ktmtwins.com](http://www.ktmtwins.com/ktm-690-2008-2013-enduro-smc-service-manual-dvd) **USD28.50**
 
 # Dongle 60312953000
 
-  * [KTM Twins](http://www.ktmtwins.com/ktm-60312953000) **USD109.99**
+  * [ktmtwins.com](http://www.ktmtwins.com/ktm-60312953000) **USD109.99**
 
-  * [ktm-parts](http://www.ktm-parts.com/60312953000.html#.U6_zAf6HYSI) **USD98.99**
+  * [ktm-parts.com](http://www.ktm-parts.com/60312953000.html#.U6_zAf6HYSI) **USD98.99**
 
   * [Highway Performance Bikes](http://highway.hdspares.com.au/index.php?main_page=product_info&products_id=943668) **AUD134.99**
 

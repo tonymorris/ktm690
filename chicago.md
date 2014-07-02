@@ -21,6 +21,8 @@
   * [Unifilter](http://www.ktmtwins.com/uni-ktm-690-enduro-smc-air-filter) **USD49.99**
 
   * front axle sliders
+
+  * [Service Manual 3206193](http://www.ktmtwins.com/ktm-690-2008-2013-enduro-smc-service-manual-dvd) **USD28.50**
   
 # dirt-bike-gear.com
 
