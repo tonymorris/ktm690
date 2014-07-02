@@ -7,7 +7,7 @@ KTM 690 Enduro R Parts
 
   * [ktmtwins.com](http://www.ktmtwins.com/ktm-690-2008-2013-enduro-smc-service-manual-dvd) **USD28.50**
 
-# Dongle 60312953000
+# Bad Fuel Dongle 60312953000
 
   * [ktmtwins.com](http://www.ktmtwins.com/ktm-60312953000) **USD109.99**
 
@@ -77,7 +77,7 @@ KTM 690 Enduro R Parts
 
 # Heated Grips
 
-  * Oxford
+  * Oxford OXF.OF692Z
 
     * [ktm-twins.com](http://www.ktmtwins.com/oxford-ktm-heated-grip-set) USD84.99 
 
@@ -98,6 +98,10 @@ KTM 690 Enduro R Parts
     * [ktm-twins.com](http://www.ktmtwins.com/uni-ktm-690-enduro-smc-air-filter) **USD49.99**
 
 # Axle Sliders
+
+  * R&G FP0085BK
+
+    * [ktmtwins.com](http://www.ktmtwins.com/r-g-ktm-690-enduro-fork-sliders) **USD51.95**
 
 # Swingarm Spools
 
