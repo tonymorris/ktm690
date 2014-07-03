@@ -19,6 +19,8 @@ KTM 690 Enduro R Parts
 
   * [GPR v4 (9001-0071)](http://www.gprstabilizer.com/shopping_dirtbikes_ktm_690-enduro-r_12-14)
 
+  * Ralle-Moto Adventure steering dampener 
+
 # Supermotard Kit 
 
   * Front wheel 7500900104430 (?)
