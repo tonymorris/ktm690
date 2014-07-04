@@ -19,7 +19,7 @@ KTM 690 Enduro R Parts
 
   * [GPR v4 (9001-0071)](http://www.gprstabilizer.com/shopping_dirtbikes_ktm_690-enduro-r_12-14)
 
-  * Ralle-Moto Adventure steering dampener 
+  * [MSC Ralle-Moto KTM 690R Enduro](https://www.rallemoto.com/contents/en-us/d28.html) **AUD645.00**
 
 # Supermotard Kit 
 
