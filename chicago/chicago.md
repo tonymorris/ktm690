@@ -14,6 +14,8 @@
 
   * [Turn signal resistor kit 22-690](http://sicassracing.com/store/products/turn_signals/wiring/ktm_690_led_turn_signal_resistor_kit) **USD30.96** *(+1 Rob)*
 
+  * [KTM Black Turn Signal Hand Guard Deflectors 22-206c](http://sicassracing.com/store/products/turn_signals/led/sicass_ktm_black_turn_signal_hand_guard_deflectors) **USD59.98** *(Rob only)*
+
 # KTM Twins
 
   * [Bad Fuel Dongle 60312953000](http://www.ktmtwins.com/ktm-60312953000) **USD109.99** *?match ktm-parts.com USD98.99*
