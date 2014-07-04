@@ -24,9 +24,9 @@
 
   * [Unifilter UNI-690](http://www.ktmtwins.com/uni-ktm-690-enduro-smc-air-filter) **USD49.99**
 
-  * [R&G FP0085BK](http://www.ktmtwins.com/r-g-ktm-690-enduro-fork-sliders) **USD51.95** *(+1 Rob)*
+  * [R&G FP0085BK Front Axle Sliders](http://www.ktmtwins.com/r-g-ktm-690-enduro-fork-sliders) **USD51.95** *(+1 Rob)*
 
-  * [Service Manual 3206193](http://www.ktmtwins.com/ktm-690-2008-2013-enduro-smc-service-manual-dvd) **USD28.50**
+  * [Service Manual 3206193](http://www.ktmtwins.com/ktm-690-2008-2013-enduro-smc-service-manual-dvd) **USD28.50** *(going halves with Rob)*
   
 # dirt-bike-gear.com
 
