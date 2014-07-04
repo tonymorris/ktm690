@@ -10,9 +10,9 @@
 
   * [Tail tidy 21-690](http://sicassracing.com/store/products/tail_lights/sicass_easy_fit/ktm_690_easy_fit_under_fender)  **USD79.95**
 
-  * [Rear flush mount indicators 22-100c](http://sicassracing.com/store/turn_signals/led/orange_lens_led_flat_mount_ktm) **USD44.98**
+  * [Rear flush mount indicators 22-100c](http://sicassracing.com/store/turn_signals/led/orange_lens_led_flat_mount_ktm) **USD44.98** *(+1 Rob)*
 
-  * [Turn signal resistor kit 22-690](http://sicassracing.com/store/products/turn_signals/wiring/ktm_690_led_turn_signal_resistor_kit) **USD30.96**
+  * [Turn signal resistor kit 22-690](http://sicassracing.com/store/products/turn_signals/wiring/ktm_690_led_turn_signal_resistor_kit) **USD30.96** *(+1 Rob)*
 
 # KTM Twins
 
@@ -22,7 +22,7 @@
 
   * [Unifilter UNI-690](http://www.ktmtwins.com/uni-ktm-690-enduro-smc-air-filter) **USD49.99**
 
-  * [R&G FP0085BK](http://www.ktmtwins.com/r-g-ktm-690-enduro-fork-sliders) **USD51.95**
+  * [R&G FP0085BK](http://www.ktmtwins.com/r-g-ktm-690-enduro-fork-sliders) **USD51.95** *(+1 Rob)*
 
   * [Service Manual 3206193](http://www.ktmtwins.com/ktm-690-2008-2013-enduro-smc-service-manual-dvd) **USD28.50**
   
@@ -32,5 +32,5 @@
 
 # flatlandracing.com
 
-  * [Skid Plate](http://flatlandracing.com/Merchant2/merchant.mvc?Screen=PROD&Store_Code=FR&Product_Code=24-46) **USD95.00**
+  * [Skid Plate](http://flatlandracing.com/Merchant2/merchant.mvc?Screen=PROD&Store_Code=FR&Product_Code=24-46) **USD95.00** *(Rob only)*
 
