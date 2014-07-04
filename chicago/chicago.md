@@ -32,6 +32,8 @@
 
   * [Number Plate Bag](http://dirt-bike-gear.com/npb.html) **USD50.00**
 
+  * [Cycra KTM Pro Bend Handguards (123152)](http://www.ktmtwins.com/cycra-handguards) **USD129.95** *(Rob only)*
+
 # flatlandracing.com
 
   * [Skid Plate 22-46](http://flatlandracing.com/Merchant2/merchant.mvc?Screen=PROD&Store_Code=FR&Product_Code=24-46) **USD95.00** *(Rob only)*
