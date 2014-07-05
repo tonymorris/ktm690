@@ -21,6 +21,10 @@ KTM 690 Enduro R Parts
 
   * [MSC Ralle-Moto KTM 690R Enduro](https://www.rallemoto.com/contents/en-us/d28.html) **AUD645.00**
 
+  * Scotts DS-SUB-3528-02R
+
+    * [slavensracing.com](http://slavensracing.com/shop/scotts-steering-damper-kit-for-ktm-690-sm-smr-smc-duke-e-r-enduro/) **USD599.00**
+
 # Supermotard Kit 
 
   * Front wheel 7500900104430 (?)
