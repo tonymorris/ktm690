@@ -27,6 +27,8 @@ KTM 690 Enduro R Parts
 
     * [seismiccycles.com](http://www.seismiccycles.com/p-1456-scotts-performance-rubber-sub-mount-steering-stabilizer-kit-ktm-690-enduro-2011-2013-_ds-sub-3528-02r.aspx) **USD589.00**
 
+    * [ktmtwins.com](http://www.ktmtwins.com/scott-s-performance-2012-damper-kit) **USD620.00**
+    
 # Supermotard Kit 
 
   * Front wheel 7500900104430 (?)

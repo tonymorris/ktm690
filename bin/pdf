@@ -2,9 +2,13 @@
 
 set -e
 
-mkdir -p dist
+mkdir -p "dist"
+mkdir -p "dist/chicago"
 
-for doc in meta parts purchase-cost smc-conversion
+files="meta parts purchase-cost smc-conversion"
+chicago="chicago/chicago chicago/dirt-bike-gear.com chicago/flatlandracing.com chicago/ktmtwins.com chicago/sicassracing.com"
+
+for doc in $files $chicago
 do
   echo "$doc"
   pandoc "$doc".md -o dist/"$doc".pdf --tab-stop=2
