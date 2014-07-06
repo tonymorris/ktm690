@@ -1,6 +1,9 @@
 * 1 x [Bad Fuel Dongle 60312953000](http://www.ktmtwins.com/ktm-60312953000) **USD109.99** <!-- Tony -->
 
-  > *able to match [ktm-parts.com](http://www.ktm-parts.com/60312953000.html#.U7kylf6HYSI) **USD98.99** ?*
+  > *able to match?*
+  > * *[ktm-parts.com](http://www.ktm-parts.com/60312953000.html#.U7kylf6HYSI) **USD98.99** *
+  > * *[magicracing.com](http://www.magicracing.com/KTM-OFFROAD-DONGLE_p_155918.html) **USD98.99** *
+
 
 * 2 x [Oxford heated grips OXF.OF692Z](http://www.ktmtwins.com/oxford-ktm-heated-grip-set) **USD84.99** <!-- Rob/Tony -->
 
@@ -14,4 +17,5 @@
 
 * 1 x [Scotts Damper Kit DS-SUB-3528-02R](http://www.ktmtwins.com/scott-s-performance-2012-damper-kit) **USD620.00** <!-- Tony -->
 
-  > *able to match [seismiccycles.com](http://www.seismiccycles.com/p-1456-scotts-performance-rubber-sub-mount-steering-stabilizer-kit-ktm-690-enduro-2011-2013-_ds-sub-3528-02r.aspx) **US589.00** ?*
+  > *able to match?*
+  > * *[seismiccycles.com](http://www.seismiccycles.com/p-1456-scotts-performance-rubber-sub-mount-steering-stabilizer-kit-ktm-690-enduro-2011-2013-_ds-sub-3528-02r.aspx) **US589.00** *

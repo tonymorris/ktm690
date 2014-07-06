@@ -13,6 +13,8 @@ KTM 690 Enduro R Parts
 
   * [ktm-parts.com](http://www.ktm-parts.com/60312953000.html#.U6_zAf6HYSI) **USD98.99**
 
+  * [magicracing.com](http://www.magicracing.com/KTM-OFFROAD-DONGLE_p_155918.html) **USD98.99**
+  
   * [Highway Performance Bikes](http://highway.hdspares.com.au/index.php?main_page=product_info&products_id=943668) **AUD134.99**
 
 # Steering Damper
@@ -28,7 +30,7 @@ KTM 690 Enduro R Parts
     * [seismiccycles.com](http://www.seismiccycles.com/p-1456-scotts-performance-rubber-sub-mount-steering-stabilizer-kit-ktm-690-enduro-2011-2013-_ds-sub-3528-02r.aspx) **USD589.00**
 
     * [ktmtwins.com](http://www.ktmtwins.com/scott-s-performance-2012-damper-kit) **USD620.00**
-    
+
 # Supermotard Kit 
 
   * Front wheel 7500900104430 (?)
