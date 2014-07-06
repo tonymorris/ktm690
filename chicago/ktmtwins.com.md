@@ -4,7 +4,6 @@
   > * *[ktm-parts.com](http://www.ktm-parts.com/60312953000.html#.U7kylf6HYSI) **USD98.99** *
   > * *[magicracing.com](http://www.magicracing.com/KTM-OFFROAD-DONGLE_p_155918.html) **USD98.99** *
 
-
 * 2 x [Oxford heated grips OXF.OF692Z](http://www.ktmtwins.com/oxford-ktm-heated-grip-set) **USD84.99** <!-- Rob/Tony -->
 
 * 1 x [Unifilter UNI-690](http://www.ktmtwins.com/uni-ktm-690-enduro-smc-air-filter) **USD49.99** <!-- Tony -->
@@ -13,6 +12,9 @@
 
 * 1 x [Service Manual 3206193](http://www.ktmtwins.com/ktm-690-2008-2013-enduro-smc-service-manual-dvd) **USD28.50** <!-- Rob/Tony -->
 
+  > *able to match?*
+  > * *[ktm-parts.com](http://www.ktm-parts.com/3206193-p-HEQSPRM,PPRM.html#.U7k0a_6HYSI) **USD25.19** *
+  
 * 1 x [Cycra KTM Pro Bend Handguards (123152) black](http://www.ktmtwins.com/cycra-handguards) **USD129.95** <!-- Rob -->
 
 * 1 x [Scotts Damper Kit DS-SUB-3528-02R](http://www.ktmtwins.com/scott-s-performance-2012-damper-kit) **USD620.00** <!-- Tony -->

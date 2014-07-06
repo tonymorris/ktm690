@@ -7,6 +7,8 @@ KTM 690 Enduro R Parts
 
   * [ktmtwins.com](http://www.ktmtwins.com/ktm-690-2008-2013-enduro-smc-service-manual-dvd) **USD28.50**
 
+  * [ktm-parts.com](http://www.ktm-parts.com/3206193-p-HEQSPRM,PPRM.html#.U7k0a_6HYSI) **USD25.19**
+
 # Bad Fuel Dongle 60312953000
 
   * [ktmtwins.com](http://www.ktmtwins.com/ktm-60312953000) **USD109.99**
@@ -14,7 +16,7 @@ KTM 690 Enduro R Parts
   * [ktm-parts.com](http://www.ktm-parts.com/60312953000.html#.U6_zAf6HYSI) **USD98.99**
 
   * [magicracing.com](http://www.magicracing.com/KTM-OFFROAD-DONGLE_p_155918.html) **USD98.99**
-  
+
   * [Highway Performance Bikes](http://highway.hdspares.com.au/index.php?main_page=product_info&products_id=943668) **AUD134.99**
 
 # Steering Damper
