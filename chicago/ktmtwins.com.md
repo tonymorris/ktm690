@@ -10,7 +10,7 @@
 
 * 1 x [Service Manual 3206193](http://www.ktmtwins.com/ktm-690-2008-2013-enduro-smc-service-manual-dvd) **USD28.50** <!-- Rob/Tony -->
 
-* 1 x [Cycra KTM Pro Bend Handguards (123152)](http://www.ktmtwins.com/cycra-handguards) **USD129.95** <!-- Rob -->
+* 1 x [Cycra KTM Pro Bend Handguards (123152) black](http://www.ktmtwins.com/cycra-handguards) **USD129.95** <!-- Rob -->
 
 * 1 x [Scotts Damper Kit DS-SUB-3528-02R](http://www.ktmtwins.com/scott-s-performance-2012-damper-kit) **USD620.00** <!-- Tony -->
 
