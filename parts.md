@@ -101,6 +101,12 @@ KTM 690 Enduro R Parts
 
   * [Rally Raid Soft Luggage Carrier System RRP-123](http://www.ktmtwins.com/rally-raid-ktm-690-enduro-smc-soft-luggage-carrier-system) **USD391.93**
 
+  * [Adventure Uni-Fit Side Rack](http://shop.adventuremoto.com.au/adventure-uni-fit-side-racks-ktm-690-enduro.html) **AUD375.0**
+
+  * [Wolfman Luggage - Rocky Mountain Saddle Bags](http://shop.adventuremoto.com.au/rocky-mountain-saddle-bags.html) **AUD575.00**
+
+  * [Wolfman Luggage - Rocky Mountain Saddle Bags](http://www.revzilla.com/motorcycle/wolfman-rocky-mountain-saddlebags) **USD397.79**
+
 # Air intake
 
   * Unfilter foam
