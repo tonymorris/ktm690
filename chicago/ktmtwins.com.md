@@ -17,6 +17,8 @@
   
 * 1 x [Cycra KTM Pro Bend Handguards (123152) black](http://www.ktmtwins.com/cycra-handguards) **USD129.95** <!-- Rob -->
 
+* 1 x [KTM 690 Enduro SMC X2 Halogen Lighting Kit 76514901044 + Orange Headlight Kit wIth 990 Super Duke Windscreen & Mounting Hardware ](http://www.ktmtwins.com/ktm-690-enduro-smc-x2-halogen-lighting-kit) **USD264.00** <!-- Rob -->
+
 * 1 x [Scotts Damper Kit DS-SUB-3528-02R](http://www.ktmtwins.com/scott-s-performance-2012-damper-kit) **USD620.00** <!-- Tony -->
 
   > *able to match?*
