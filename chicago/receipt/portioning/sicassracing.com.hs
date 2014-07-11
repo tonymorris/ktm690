@@ -7,7 +7,7 @@ exchange ::
   Floating a
   => a
 exchange =
-  158012 / 174617
+  307920 / 339890
 
 data Item =
   Item
@@ -20,20 +20,14 @@ items ::
   [Item]
 items =
   [
-    Item "KTM 690 1190 R Offroad Bad Fuel Dongle 60312953000" 109990 Tony
-  , Item "Oxford KTM Sport Heated Grips OXF.OF692Z" 84990 Tony
-  , Item "Oxford KTM Sport Heated Grips OXF.OF692Z" 84990 Rob
-  , Item "UNI KTM 690 High Flow Air Filter" 49990 Tony
-  , Item "R&G KTM 690 Enduro SMC Fork Sliders FP0085BK" 51950 Tony
-  , Item "R&G KTM 690 Enduro SMC Fork Sliders FP0085BK" 51950 Rob
-  , Item "KTM 690 Enduro SMC Service Repair Manual DVD" 12595 Tony
-  , Item "KTM 690 Enduro SMC Service Repair Manual DVD" 12595 Rob
-  , Item "Cycra KTM Pro Bend Handguards" 129950 Rob
-  , Item "KTM 690 Enduro SMC X2 Halogen Lighting Kit 76514901044" 264000 Rob
-  , Item "Scotts KTM 690 Enduro SMC Rubber Mounted Damper Kit 2012+" 620000 Tony
-  , Item "Scotts KTM 690 Enduro SMC Rubber Mounted Damper Kit 2012+ (discount)" (-31000) Tony
-  , Item "Shipping" 53560 Tony
-  , Item "Shipping" 53560 Rob
+    Item "Tail tidy 21-690" 79950 Tony
+  , Item "Rear flush mount indicators 22-100c" 44980 Tony
+  , Item "Rear flush mount indicators 22-100c" 44980 Rob
+  , Item "Turn signal resistor kit 22-690" 30960 Tony
+  , Item "Turn signal resistor kit 22-690" 30960 Rob
+  , Item "KTM Black Turn Signal Hand Guard Deflectors 22-206c" 59980 Rob
+  , Item "Shipping" 8055 Rob
+  , Item "Shipping" 8055 Tony
   ]
 
 sumCost ::
@@ -98,4 +92,3 @@ tonysAudTotal ::
   a
 tonysAudTotal =
   tonysPortion * audTotal
-
