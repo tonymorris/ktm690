@@ -3,10 +3,11 @@ data Who =
   | Tony
   deriving (Eq, Ord, Show)
 
-audTotal ::
-  Integer
-audTotal =
-  1746170
+exchange ::
+  Floating a
+  => a
+exchange =
+  fromIntegral 158012 / fromIntegral 174617
 
 data Item =
   Item
@@ -30,6 +31,7 @@ items =
   , Item "Cycra KTM Pro Bend Handguards" 129950 Rob
   , Item "KTM 690 Enduro SMC X2 Halogen Lighting Kit 76514901044" 264000 Rob
   , Item "Scotts KTM 690 Enduro SMC Rubber Mounted Damper Kit 2012+" 620000 Tony
+  , Item "Scotts KTM 690 Enduro SMC Rubber Mounted Damper Kit 2012+ (discount)" (-31000) Tony
   , Item "Shipping" 53560 Tony
   , Item "Shipping" 53560 Rob
   ]
@@ -79,15 +81,21 @@ tonysPortion ::
 tonysPortion =
   fromIntegral tonysUsdTotal / fromIntegral usdTotal
 
+audTotal ::
+  Floating a =>
+  a
+audTotal =
+  fromIntegral usdTotal * (1 / exchange)
+
 robsAudTotal ::
   Floating a =>
   a
 robsAudTotal =
-  robsPortion * fromIntegral audTotal
+  robsPortion * audTotal
 
 tonysAudTotal ::
   Floating a =>
   a
 tonysAudTotal =
-  tonysPortion * fromIntegral audTotal
+  tonysPortion * audTotal
 
