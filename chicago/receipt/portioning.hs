@@ -41,6 +41,34 @@ aud ::
 aud v x =
   x * exchange v
 
+class Aud a where
+  toAud ::
+    Fractional x =>
+    a
+    -> x
+
+instance Aud Item where
+  toAud (Item _ a v _) =
+    aud v (fromIntegral a)
+
+instance Aud a => Aud [a] where
+  toAud =
+    sum . map toAud
+
+class Usd a where
+  toUsd ::
+    Fractional x =>
+    a
+    -> x
+
+instance Usd Item where
+  toUsd (Item _ a _ _) =
+    fromIntegral a
+
+instance Usd a => Usd [a] where
+  toUsd =
+    sum . map toUsd
+
 items ::
   [Item]
 items =
@@ -98,3 +126,50 @@ sicass ::
   -> [Item]
 sicass =
   filter (\(Item _ _ v _) -> v == Sicass)
+
+-- hack
+showAmount ::
+  (Show x, Fractional x) =>
+  x
+  -> String
+showAmount x =
+  let r = show (x / 1000)
+      (d, c) = break (== '.') r
+  in d ++ '.' : (take 3 . drop 1 $ c)
+
+report =
+  let r = rob items
+      kr = ktmtwins r
+      sr = sicass r
+  in "# Costs\n\n\
+      \### Rob\n\n\
+      \##### ktmtwins.com\n\n\
+      \" ++ (kr >>= \i@(Item n x _ _) -> "----\n\n" ++ n ++ "\n\n  **USD" ++ showAmount (fromIntegral x) ++ "** \n\n  **AUD" ++ showAmount (toAud i) ++ "**\n\n") ++
+      "##### siccassracing.com\n\n\
+      \" ++ (sr >>= \i@(Item n x _ _) -> "----\n\n" ++ n ++ "\n\n  **USD" ++ showAmount (fromIntegral x) ++ "** \n\n  **AUD" ++ showAmount (toAud i) ++ "**\n\n") ++
+      "----\n\n\
+      \## TOTAL\n\n\
+      \**USD" ++ showAmount (toUsd r) ++ "**\n\n\
+      \**AUD" ++ showAmount (toAud r) ++ "**" 
+
+
+{-
+Report
+
+Rob
+  ktmwins
+    each item
+    subtotal
+  sicass
+    each item
+    subtotal
+
+Tony
+  ktmwins
+    each item
+    subtotal
+  sicass
+    each item
+    subtotal
+
+-}
