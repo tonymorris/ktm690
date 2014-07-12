@@ -151,25 +151,3 @@ report =
       \## TOTAL\n\n\
       \**USD" ++ showAmount (toUsd r) ++ "**\n\n\
       \**AUD" ++ showAmount (toAud r) ++ "**" 
-
-
-{-
-Report
-
-Rob
-  ktmwins
-    each item
-    subtotal
-  sicass
-    each item
-    subtotal
-
-Tony
-  ktmwins
-    each item
-    subtotal
-  sicass
-    each item
-    subtotal
-
--}
