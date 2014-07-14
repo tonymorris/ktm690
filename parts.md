@@ -33,6 +33,14 @@ KTM 690 Enduro R Parts
 
     * [ktmtwins.com](http://www.ktmtwins.com/scott-s-performance-2012-damper-kit) **USD620.00**
 
+# Koubalink
+
+  * [3/8 inch lowering](http://www.koubalink.com/orderform.html) **USD200.00**
+
+  * [1 inch lowering](http://www.koubalink.com/orderform.html) **USD150.00**
+
+  * [1 5/8 inch lowering](http://www.koubalink.com/orderform.html) **USD150.00**
+
 # Supermotard Kit 
 
   * Front wheel 7500900104430 (?)
