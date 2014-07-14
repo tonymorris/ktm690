@@ -75,6 +75,9 @@ KTM 690 Enduro R Parts
  
   * Renazco
 
+  * [Seat Concepts](www.seatconcepts.com/products#!/~/product/category=1671352&id=7072115) **USD269.99**
+
+
 # Screen
 
 # Tail Tidy
@@ -101,11 +104,15 @@ KTM 690 Enduro R Parts
 
   * [Rally Raid Soft Luggage Carrier System RRP-123](http://www.ktmtwins.com/rally-raid-ktm-690-enduro-smc-soft-luggage-carrier-system) **USD391.93**
 
-  * [Adventure Uni-Fit Side Rack](http://shop.adventuremoto.com.au/adventure-uni-fit-side-racks-ktm-690-enduro.html) **AUD375.0**
+  * [Adventure Uni-Fit Side Rack](http://shop.adventuremoto.com.au/adventure-uni-fit-side-racks-ktm-690-enduro.html) **AUD375.00**
 
   * [Wolfman Luggage - Rocky Mountain Saddle Bags](http://shop.adventuremoto.com.au/rocky-mountain-saddle-bags.html) **AUD575.00**
 
   * [Wolfman Luggage - Rocky Mountain Saddle Bags](http://www.revzilla.com/motorcycle/wolfman-rocky-mountain-saddlebags) **USD397.79**
+
+  * [Wolfman Expedition Dry Saddle Bags](http://www.revzilla.com/motorcycle/wolfman-expedition-dry-saddle-bags) **USD233.99**
+
+  * [Wolfman Expedition Dry Saddle Bags](http://shop.adventuremoto.com.au/expedition-dry-saddle-bags.html) **AUD325.00**
 
 # Air intake
 
