@@ -1,2 +1,2 @@
-* [Wolfman Luggage - Rocky Mountain Saddle Bags](http://www.revzilla.com/motorcycle/wolfman-rocky-mountain-saddlebags) **USD397.79**
+* [Wolfman Expedition Dry Saddle Bags](http://www.revzilla.com/motorcycle/wolfman-expedition-dry-saddle-bags) **USD233.99**
 
