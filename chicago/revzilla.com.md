@@ -1,2 +1,3 @@
-* [Wolfman Expedition Dry Saddle Bags](http://www.revzilla.com/motorcycle/wolfman-expedition-dry-saddle-bags) **USD233.99**
+* [Giant Loop Coyote Saddlebag](http://shop.giantloopmoto.com/c/saddlebag-systems-by-giant-loop_coyote-saddlebag-153)
+ ***USD360.00** 
 
