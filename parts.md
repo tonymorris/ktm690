@@ -124,6 +124,8 @@ KTM 690 Enduro R Parts
 
   * [Giant Loop Coyote Saddlebag](http://shop.giantloopmoto.com/c/saddlebag-systems-by-giant-loop_coyote-saddlebag-153) **USD360.00**
 
+  * [Giant Loop Great Basin Saddlebag](http://www.revzilla.com/motorcycle/giant-loop-great-basin-saddlebag) **USD379.04**
+
 # Air intake
 
   * Unfilter foam
