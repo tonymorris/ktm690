@@ -1,3 +1,3 @@
-* [Giant Loop Coyote Saddlebag](http://shop.giantloopmoto.com/c/saddlebag-systems-by-giant-loop_coyote-saddlebag-153)
+* [Giant Loop Coyote Saddlebag](http://www.revzilla.com/motorcycle/giant-loop-coyote-saddlebag-with-dry-pods)
  ***USD360.00** 
 
