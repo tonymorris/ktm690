@@ -122,7 +122,7 @@ KTM 690 Enduro R Parts
 
   * [Wolfman Expedition Dry Saddle Bags](http://shop.adventuremoto.com.au/expedition-dry-saddle-bags.html) **AUD325.00**
 
-  * [Giant Loop Coyote Saddlebag](http://shop.giantloopmoto.com/c/saddlebag-systems-by-giant-loop_coyote-saddlebag-153) ***USD360.00**
+  * [Giant Loop Coyote Saddlebag](http://shop.giantloopmoto.com/c/saddlebag-systems-by-giant-loop_coyote-saddlebag-153) **USD360.00**
 
 # Air intake
 
