@@ -150,6 +150,19 @@ KTM 690 Enduro R Parts
 
 # Plastics Kit
 
+# ABS rings
+
+  * Front wheel
+
+    * 60142020000 SENSOR WHEEL FRONT 06
+
+    * 014580060166 CYL. SCREW DIN14580 M 6X16
+
+  * Rear wheel
+    * 014580060166 CYL. SCREW DIN14580 M 6X16
+
+    * 76542021000 BRAKE DISK REAR D=240
+
 # Bag
 
   * [Spare Tube Bag](http://dirt-bike-gear.com/stb.html) **USD27.50**
