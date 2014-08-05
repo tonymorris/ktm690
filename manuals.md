@@ -11,6 +11,14 @@ Manuals
 
 * [690 Enduro-R/SMC-R Spare Parts Catalog: Chassis **3CFF9775N8EN**](https://dl.dropboxusercontent.com/u/7810909/media/manuals/690e/2014/2014%20KTM%20690%20ENDURO%20R%20FRAME%20MANUAL.pdf)
 
+* [690 SMC R ABC AU 2014 Spare Parts Catalog: Chassis **3CFF9760N9EN**](https://dl.dropboxusercontent.com/u/7810909/media/manuals/690smc/2014/690SMC-R_CHASSIS_2014.pdf)
+
+----
+
+### 2011
+
+* [Owners Manual 2011 (690 SMC EU, 690 SMC AUS/UK) **3211659en**](https://dl.dropboxusercontent.com/u/7810909/media/manuals/690smc/2011/KTM%20690%20SMC%20Manual.pdf)
+
 ----
 
 ### 2010
