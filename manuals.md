@@ -7,9 +7,9 @@ Manuals
 
 * [690 Enduro R AU 2014 Spare Parts Catalog: Chassis **3CFF9760N8EN**](https://dl.dropboxusercontent.com/u/7810909/media/manuals/690e/2014/690ENDURO-R_CHASSIS_2014)
 
-* [690 Enduro-R/SMC-R Spare Parts Catalog: Engine **3CM088526NEN**](https://dl.dropboxusercontent.com/u/7810909/media/manuals/690e/2014/2014%20KTM%20690%20ENDURO%20R%20ENGINE.pdf)
+* [690 Enduro-R/SMC-R 2014 Spare Parts Catalog: Engine **3CM088526NEN**](https://dl.dropboxusercontent.com/u/7810909/media/manuals/690e/2014/2014%20KTM%20690%20ENDURO%20R%20ENGINE.pdf)
 
-* [690 Enduro-R/SMC-R Spare Parts Catalog: Chassis **3CFF9775N8EN**](https://dl.dropboxusercontent.com/u/7810909/media/manuals/690e/2014/2014%20KTM%20690%20ENDURO%20R%20FRAME%20MANUAL.pdf)
+* [690 Enduro R US 2014 Spare Parts Catalog: Chassis **3CFF9775N8EN**](https://dl.dropboxusercontent.com/u/7810909/media/manuals/690e/2014/2014%20KTM%20690%20ENDURO%20R%20FRAME%20MANUAL.pdf)
 
 * [690 SMC R ABC AU 2014 Spare Parts Catalog: Chassis **3CFF9760N9EN**](https://dl.dropboxusercontent.com/u/7810909/media/manuals/690smc/2014/690SMC-R_CHASSIS_2014.pdf)
 
