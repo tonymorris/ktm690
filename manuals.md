@@ -3,7 +3,9 @@ Manuals
 
 ### 2014
 
-* [Owners Manual 2014 (690 Enduro R EU, 690 Enduro R AUS/UK) **3213101en**](https://dl.dropboxusercontent.com/u/7810909/media/manuals/690e/2014/14_3213101_en_OM_9782c5.pdf)
+* [Owners Manual 2014 **3213101en**](https://dl.dropboxusercontent.com/u/7810909/media/manuals/690e/2014/14_3213101_en_OM_9782c5.pdf)
+    * 690 Enduro R EU
+    * 690 Enduro R AUS/UK
 
 * [690 Enduro R AU 2014 Spare Parts Catalog: Chassis **3CFF9760N8EN**](https://dl.dropboxusercontent.com/u/7810909/media/manuals/690e/2014/690ENDURO-R_CHASSIS_2014)
 
@@ -17,13 +19,20 @@ Manuals
 
 ### 2011
 
-* [Owners Manual 2011 (690 SMC EU, 690 SMC AUS/UK) **3211659en**](https://dl.dropboxusercontent.com/u/7810909/media/manuals/690smc/2011/KTM%20690%20SMC%20Manual.pdf)
+* [Owners Manual 2011 **3211659en**](https://dl.dropboxusercontent.com/u/7810909/media/manuals/690smc/2011/KTM%20690%20SMC%20Manual.pdf)
+    * 690 SMC EU
+    * 690 SMC AUS/UK
 
 ----
 
 ### 2010
 
-* [690 Repair Manual (690 Enduro EU, 690 Enduro AUS/UK, 690 Enduro R EU, 690 Enduro R AUS/UK, 690 Enduro R USA) **3206089en**](https://dl.dropboxusercontent.com/u/7810909/media/manuals/690e/2010/690e10%20repair%20manual.pdf)
+* [690 Repair Manual **3206089en**](https://dl.dropboxusercontent.com/u/7810909/media/manuals/690e/2010/690e10%20repair%20manual.pdf)
+    * 690 Enduro EU
+    * 690 Enduro AUS/UK
+    * 690 Enduro R EU
+    * 690 Enduro R AUS/UK
+    * 690 Enduro R USA
 
 ----
 
