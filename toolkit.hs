@@ -26,6 +26,7 @@ ktm690toolkit =
     , item1 "Hex 27mm" "hex"
     , item "Tie wire"
     , item "Cable ties"
+    , item "Duct tape"
     , item "Nose pliers"
     , item "Torch"
     , item "Socket wrench"
