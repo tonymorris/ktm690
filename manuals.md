@@ -1,11 +1,11 @@
 Manuals
 =======
 
-### KTM REPAIR MANUAL 2008-2014 `3206193 03/2014`
+### KTM REPAIR MANUAL 2008-2014 *3206193 03/2014*
 
 ##### DEUTSCH
 
-* [2008 Enduro EU, Enduro AUS/UK, Enduro USA (`08_3206041_de_RM **13.0MB**`)](https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/DEUTSCH/08_3206041_de_RM.pdf)
+* [2008 Enduro EU, Enduro AUS/UK, Enduro USA (**08_3206041_de_RM 13.0MB**)](https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/DEUTSCH/08_3206041_de_RM.pdf)
 
 * https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/DEUTSCH/08_3206042_de_RM.pdf
 
