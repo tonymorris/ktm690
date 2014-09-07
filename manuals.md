@@ -1,6 +1,39 @@
 Manuals
 =======
 
+### KTM REPAIR MANUAL 2008-2014 `3206193 03/2014`
+
+##### DEUTSCH
+
+* [2008 Enduro EU, Enduro AUS/UK, Enduro USA (`08_3206041_de_RM **13.0MB**`)](https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/DEUTSCH/08_3206041_de_RM.pdf)
+
+* https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/DEUTSCH/08_3206042_de_RM.pdf
+
+* https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/DEUTSCH/09_3206075_de_RM.pdf
+
+* https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/DEUTSCH/09_3206076_de_RM.pdf
+
+* https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/DEUTSCH/10_3206089_de_RM.pdf
+
+* https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/DEUTSCH/10_3206090_de_RM.pdf
+
+* https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/DEUTSCH/11_3206121_de_RM.pdf
+
+* https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/DEUTSCH/11_3206122_de_RM.pdf
+
+* https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/DEUTSCH/12_3206125_de_RM.pdf
+
+* https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/DEUTSCH/12_3206126_de_RM.pdf
+
+* https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/DEUTSCH/13_3206150_de_RM.pdf
+
+* https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/DEUTSCH/13_3206153_de_RM.pdf
+
+* https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/DEUTSCH/14_3206192_de_RM.pdf
+
+* https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/DEUTSCH/14_3206193_de_RM.pdf
+
+----
 
 ##### 2014
 
