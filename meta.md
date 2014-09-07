@@ -56,7 +56,15 @@ Salesperson: Richard McKibben
 
 ### Tyres
 
-Front 90/90-21 Metzeler Enduro 3
+* Enduro
 
-Rear 140/80-18 Metzeler Enduro 3
+    * Front 90/90-21 Metzeler Enduro 3
+
+    * Rear 140/80-18 Metzeler Enduro 3
+
+* SMC Wheels (Warp 9)
+
+    * Front J 17 x MT3.50
+
+    * Rear J 4.25 x 17 36H
 
