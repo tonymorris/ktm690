@@ -7,31 +7,31 @@ Manuals
 
 * 2008 Enduro EU, Enduro AUS/UK, Enduro USA [*08_3206041_de_RM 13.0MB*](https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/DEUTSCH/08_3206041_de_RM.pdf)
 
-* https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/DEUTSCH/08_3206042_de_RM.pdf
+* 2008 SMC EU, SMC AUS/UK, SMC USA [*08_3206042_de_RM 13.2MB*](https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/DEUTSCH/08_3206042_de_RM.pdf)
 
-* https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/DEUTSCH/09_3206075_de_RM.pdf
+* 2009 SMC EU, SMC AUS/UK, SMC USA [*09_3206075_de_RM 13.4MB*](https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/DEUTSCH/09_3206075_de_RM.pdf)
 
-* https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/DEUTSCH/09_3206076_de_RM.pdf
+* 2009 Enduro EU, Enduro AUS/UK, Enduro R EU, Enduro R AUS/UK, Enduro R USA [*09_3206076_de_RM 13.8MB*](https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/DEUTSCH/09_3206076_de_RM.pdf)
 
-* https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/DEUTSCH/10_3206089_de_RM.pdf
+* 2010 Enduro EU, Enduro AUS/UK, Enduro R EU, Enduro R AUS/UK, Enduro R USA [*10_3206089_de_RM 13.8MB*](https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/DEUTSCH/10_3206089_de_RM.pdf)
 
-* https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/DEUTSCH/10_3206090_de_RM.pdf
+* 2010 SMC EU, SMC AUS/UK, SMC USA [*10_3206090_de_RM 13.4MB*](https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/DEUTSCH/10_3206090_de_RM.pdf)
 
-* https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/DEUTSCH/11_3206121_de_RM.pdf
+* 2011 Enduro R EU, Enduro R AU/GB, Enduro R US [*11_3206121_de_RM 15.0MB*](https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/DEUTSCH/11_3206121_de_RM.pdf)
 
-* https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/DEUTSCH/11_3206122_de_RM.pdf
+* 2011 SMC EU, SMC AUS/UK [*11_3206122_de_RM 12.4MB*](https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/DEUTSCH/11_3206122_de_RM.pdf)
 
-* https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/DEUTSCH/12_3206125_de_RM.pdf
+* 2012 Enduro R EU, Enduro R AUS/UK, Enduro R USA [*12_3206126_de_RM 12.4MB*](https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/DEUTSCH/12_3206125_de_RM.pdf)
 
-* https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/DEUTSCH/12_3206126_de_RM.pdf
+* 2012 SMC R EU, SMC R AUS/UK [*12_3206126_de_RM 12.5MB*](https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/DEUTSCH/12_3206126_de_RM.pdf)
 
-* https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/DEUTSCH/13_3206150_de_RM.pdf
+* 2013 Enduro R EU, Enduro R AUS/UK, Enduro R USA [*13_3206150_de_RM 12.4MB*](https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/DEUTSCH/13_3206150_de_RM.pdf)
 
-* https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/DEUTSCH/13_3206153_de_RM.pdf
+* 2013 SMC R EU, SMC R AUS/UK [*13_3206153_de_RM 12.5MB*](https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/DEUTSCH/13_3206153_de_RM.pdf)
 
-* https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/DEUTSCH/14_3206192_de_RM.pdf
+* 2014 Enduro R EU, Enduro R AU/GB, Enduro R US [*14_3206192_de_RM 15.0MB*](https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/DEUTSCH/14_3206192_de_RM.pdf)
 
-* https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/DEUTSCH/14_3206193_de_RM.pdf
+* 2014 SMC R EU, SMC R AU/GB [*14_3206193_de_RM 15.7MB*](https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/DEUTSCH/14_3206193_de_RM.pdf)
 
 ----
 
