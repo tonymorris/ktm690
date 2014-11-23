@@ -17,3 +17,8 @@
 * Supermoto tyres
 
 * Fit SR10 + Uniden
+
+* toolkit
+
+* first aid
+
