@@ -4,6 +4,8 @@
 
 * Reconnect spot lights
 
+* Tracking device
+
 * Check fuel tank bolt on drive chain
 
 * Fit safari tank
