@@ -22,3 +22,5 @@
 
 * first aid
 
+* camping gear
+
