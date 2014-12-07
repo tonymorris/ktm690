@@ -26,3 +26,5 @@
 
 * camping gear
 
+* SPOT
+
