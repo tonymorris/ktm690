@@ -1,3 +1,5 @@
+* Remove spark arrestor
+
 * Garage door opener
 
 * Lower fuel tank mount bolt hits drive chain
