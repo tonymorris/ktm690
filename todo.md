@@ -1,3 +1,5 @@
+* Paint mirror mounts
+
 * Rear tyre
 
 * Remove spark arrestor
