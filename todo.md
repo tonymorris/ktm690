@@ -1,3 +1,9 @@
+* Lower fuel tank mount bolt hits drive chain
+
+* Rewire and adjust spotlights
+
+* Rewire heated grips
+
 * Replace grips
 
 * Replace USB charger
