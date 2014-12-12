@@ -1,3 +1,5 @@
+* Garage door opener
+
 * Lower fuel tank mount bolt hits drive chain
 
 * Rewire and adjust spotlights
