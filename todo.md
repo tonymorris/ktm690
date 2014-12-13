@@ -1,3 +1,17 @@
+* Paint mirror mounts
+
+* Rear tyre
+
+* Remove spark arrestor
+
+* Garage door opener
+
+* Lower fuel tank mount bolt hits drive chain
+
+* Rewire and adjust spotlights
+
+* Rewire heated grips
+
 * Replace grips
 
 * Replace USB charger
@@ -25,4 +39,6 @@
 * first aid
 
 * camping gear
+
+* SPOT
 
