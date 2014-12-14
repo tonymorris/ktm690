@@ -1,28 +1,27 @@
-* Paint mirror mounts
-
 * Rear tyre
-
-* Remove spark arrestor
 
 * Garage door opener
 
-* Lower fuel tank mount bolt hits drive chain
+* Lower fuel tank mount bolt hits drive chain (needs replacement bolt)
 
 * Rewire and adjust spotlights
 
-* Rewire heated grips
-
 * Replace grips
-
-* Replace USB charger
 
 * Reconnect spot lights
 
 * Tracking device
 
-* Check fuel tank bolt on drive chain
-
 * Fit safari tank
+
+    * Tools
+        * Gasket sealant
+
+        * 1.5mm drill bit
+
+        * 4.0mm drill bit
+
+        * Compressed air
 
 * Install screen
 
@@ -42,3 +41,12 @@
 
 * SPOT
 
+----
+
+# Done
+
+* Paint mirror mounts *20141213*
+
+* Replace USB charger *20141213*
+
+* Remove spark arrestor *20141214*
