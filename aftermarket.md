@@ -38,12 +38,12 @@
 
 * RAM mounts
 
-    * X-grip (RAM-HOL-UN7BU)
+  * X-grip (RAM-HOL-UN7BU)
 
-    * Short arm (RAM-B-201U-A)
+  * Short arm (RAM-B-201U-A)
 
-    * Garmin GPSMAP 62 Series Holder (RAM-HOL-GA41)
+  * Garmin GPSMAP 62 Series Holder (RAM-HOL-GA41)
 
-    * Diamond Ball Base with 1" Ball (RAM-B-238)
+  * Diamond Ball Base with 1" Ball (RAM-B-238)
 
-    * (x2) Motorcycle handlebar clamp (RAM-B-367U)
+  * (x2) Motorcycle handlebar clamp (RAM-B-367U)
