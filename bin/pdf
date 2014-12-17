@@ -3,15 +3,11 @@
 set -e
 
 mkdir -p "dist"
-mkdir -p "dist/chicago"
-mkdir -p "dist/etc"
 
 pandoc="./.cabal-sandbox/bin/pandoc"
-files="meta parts purchase-cost smc-conversion"
-chicago="chicago/chicago chicago/dirt-bike-gear.com chicago/flatlandracing.com chicago/ktmtwins.com chicago/sicassracing.com"
-etc="etc/20141005-damage"
+files="20141005-damage accessory-wiring manuals meta parts purchase-cost smc-conversion todo"
 
-for doc in $files $chicago $etc
+for doc in $files $etc
 do
   echo "$doc"
   $pandoc "$doc".md -o dist/"$doc".pdf --tab-stop=2
