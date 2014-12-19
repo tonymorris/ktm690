@@ -34,8 +34,8 @@
 
 * Remove spark arrestor *20141214*
 
-* Fit safari tank
+* Fit safari tank *20141219*
 
-* Garage door opener
+* Garage door opener *20141218*
 
-* Create modifications document
+* Create modifications document *20141218*
