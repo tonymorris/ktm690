@@ -12,8 +12,6 @@
 
 * Install cameras
 
-* Create modifications document
-
 * Supermoto tyres
 
 * Fit SR10 + Uniden
@@ -39,3 +37,5 @@
 * Fit safari tank
 
 * Garage door opener
+
+* Create modifications document
