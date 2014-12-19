@@ -22,6 +22,8 @@
 
 * Rear swingarm spools
 
+* Adventure-Spec Side Case KTM 690 E/R
+
 * perunmoto KTM 690 subframe reinforcement kit
 
 * perunmoto KTM 690 Luggage rack
