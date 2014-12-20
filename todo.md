@@ -2,8 +2,6 @@
 
 * Lower fuel tank mount bolt hits drive chain (needs replacement bolt)
 
-* Rewire and adjust spotlights
-
 * Replace grips
 
 * Tracking device
@@ -41,3 +39,5 @@
 * Garage door opener *20141218*
 
 * Create modifications document *20141218*
+
+* Rewire and adjust spotlights *20141220*
