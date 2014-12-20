@@ -1,4 +1,4 @@
-* Rear tyre
+* Take up pants
 
 * Lower fuel tank mount bolt hits drive chain (needs replacement bolt)
 
@@ -27,6 +27,8 @@
 ----
 
 # Done
+
+* Rear tyre
 
 * Paint mirror mounts *20141213*
 
