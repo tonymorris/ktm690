@@ -2,8 +2,6 @@
 
 * Lower fuel tank mount bolt hits drive chain (needs replacement bolt)
 
-* Replace grips
-
 * Tracking device
 
 * Install screen
@@ -41,3 +39,9 @@
 * Create modifications document *20141218*
 
 * Rewire and adjust spotlights *20141220*
+
+----
+
+# Not doing
+
+* Replace grips
