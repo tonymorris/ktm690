@@ -8,6 +8,10 @@
 
 * Install cameras
 
+    * need new box e.g. [SCA 465mm x 360mm x 175mm](http://www.supercheapauto.com.au/online-store/products/SCA-Safe-Case-465x360x175mm.aspx?pid=326045#Recommendations)
+
+    * make lens (plexiglass/lexan)
+
 * Supermoto tyres
 
 * Fit SR10 + Uniden
