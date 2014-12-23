@@ -12,7 +12,9 @@
 
     * make lens (plexiglass/lexan)
 
-* Supermoto tyres
+* Supermoto
+
+    * Adjust speedometer
 
 * Fit SR10 + Uniden
 
