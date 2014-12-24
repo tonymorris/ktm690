@@ -14,6 +14,8 @@
 
     * Adjust speedometer
 
+* Replace front brake line (76542006000)
+
 * Replace imperial bolts on front wheel spools with metric
 
 * Fit SR10 + Uniden
