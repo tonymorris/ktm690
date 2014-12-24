@@ -16,6 +16,8 @@
 
     * Adjust speedometer
 
+* Replace imperial bolts on front wheel spools with metric
+
 * Fit SR10 + Uniden
 
 * toolkit
