@@ -4,6 +4,8 @@
 
 * Install screen (76508065000)
 
+* Fork leg protectors (7800109420030)
+
 * Install cameras
 
     * need new box e.g. [SCA 465mm x 360mm x 175mm](http://www.supercheapauto.com.au/online-store/products/SCA-Safe-Case-465x360x175mm.aspx?pid=326045#Recommendations)
