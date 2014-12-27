@@ -1,5 +1,3 @@
-* Take up pants
-
 * Tracking device
 
 * Install screen (76508065000)
@@ -51,6 +49,8 @@
 * Rewire and adjust spotlights *20141220*
 
 * Lower fuel tank mount bolt hits drive chain (needs replacement bolt) *20141224*
+
+* Take up pants *20141226*
 
 ----
 
