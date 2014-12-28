@@ -1,4 +1,4 @@
-# Installed aftermarket parts
+# Installed modifications
 
 * KTM bad fuel dongle (60312953000)
 
