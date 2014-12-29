@@ -1,3 +1,11 @@
+* Straighten bars
+
+* Fix front brake line
+
+* Fix front supermoto wheel
+
+* Fix Safari tank
+
 * Tracking device
 
 * Install screen (76508065000)
