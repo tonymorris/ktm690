@@ -28,6 +28,8 @@
 
 * Fit SR10 + Uniden
 
+    * Consider better handset (GME TX6150 5 watt)
+
 * toolkit
 
 * first aid
