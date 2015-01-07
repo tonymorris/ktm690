@@ -12,7 +12,7 @@
 
 * (x4) Oledone 1L10-L spotlights
 
-* Oxford OXF.OF692Z headed grips
+* Oxford OXF.OF692Z heated grips
 
 * Giant Loop Coyote Saddlebag
 
