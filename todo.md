@@ -20,10 +20,6 @@
 
     * make lens (plexiglass/lexan)
 
-* Supermoto
-
-    * Adjust speedometer
-
 * Replace front brake line (76542006000)
 
 * Replace imperial bolts on front wheel spools with metric
