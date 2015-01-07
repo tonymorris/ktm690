@@ -14,6 +14,8 @@
 
 * Oxford OXF.OF692Z heated grips
 
+* Seat Concepts seat
+
 * Giant Loop Coyote Saddlebag
 
 * Unifilter 690E (07-14) foam air filter
