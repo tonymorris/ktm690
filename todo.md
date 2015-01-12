@@ -1,18 +1,10 @@
 * Left handguard
 
-* Fuel cap breather
-
-* Fix front brake line
-
 * Fix front supermoto wheel
-
-* Fix Safari tank
 
 * Tracking device
 
 * Install screen (76508065000)
-
-* Fork leg protectors (7800109420030)
 
 * Install cameras
 
@@ -22,7 +14,11 @@
 
 * Replace front brake line (76542006000)
 
-* Replace imperial bolts on front wheel spools with metric
+* Replace imperial bolts with metric
+
+    * front axle sliders
+
+    * fuel tank lower mount
 
 * Fit SR10 + Uniden
 
