@@ -1,3 +1,7 @@
+* seat cover
+
+* highway pegs
+
 * Left handguard
 
 * Fix front supermoto wheel
