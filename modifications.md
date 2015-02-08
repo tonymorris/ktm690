@@ -30,7 +30,7 @@
 
 * perunmoto KTM 690 Luggage rack
 
-* Barkbusters
+* Barkbusters BHG15-02
 
 * KTM 690 Enduro 14L Safari Tanks long range fuel tank
 
