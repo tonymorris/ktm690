@@ -40,6 +40,8 @@
 
 * Doubletake mirrors with RAM mounts
 
+* AN-4 Stainless Steel/Nylon Braided fuel line
+
 * RAM mounts
 
   * X-grip (RAM-HOL-UN7BU)
