@@ -2,8 +2,6 @@
 
 * highway pegs
 
-* Left handguard
-
 * Fix front supermoto wheel
 
 * Tracking device
@@ -59,6 +57,8 @@
 * Lower fuel tank mount bolt hits drive chain (needs replacement bolt) *20141224*
 
 * Take up pants *20141226*
+
+* Left handguard
 
 ----
 
