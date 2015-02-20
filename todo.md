@@ -2,6 +2,8 @@
 
 * highway pegs
 
+* Replace front brake line (76542006000)
+
 * Fix front supermoto wheel
 
 * Tracking device
@@ -11,8 +13,6 @@
     * need new box e.g. [SCA 465mm x 360mm x 175mm](http://www.supercheapauto.com.au/online-store/products/SCA-Safe-Case-465x360x175mm.aspx?pid=326045#Recommendations)
 
     * make lens (plexiglass/lexan)
-
-* Replace front brake line (76542006000)
 
 * Replace imperial bolts with metric
 
