@@ -2,6 +2,8 @@
 
 * KTM bad fuel dongle (60312953000)
 
+* KTM Touring Windscreen (76508065000)
+
 * Scotts DS-SUB-3528-02R steering stabilizer
 
 * Wings 690E/R 14+ muffler
