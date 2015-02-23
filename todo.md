@@ -1,3 +1,5 @@
+* paint handguards
+
 * seat cover
 
 * highway pegs
