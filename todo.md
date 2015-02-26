@@ -1,12 +1,16 @@
+* move wheel spokes 1.2mm to right
+
+    * Ash's Spoked Wheels
+      http://asw.com.au/
+      ashspokedwheelz@bigpond.com
+      0732626447
+      35 Crosby Road Albion Brisbane QLD 4010
+      
 * paint handguards
 
 * seat cover
 
 * highway pegs
-
-* Replace front brake line (76542006000)
-
-* Fix front supermoto wheel
 
 * Tracking device
 
@@ -58,7 +62,9 @@
 
 * Take up pants *20141226*
 
-* Left handguard
+* Replace front brake line (76542006000) *20150226*
+
+* Fix front supermoto wheel *20150226*
 
 ----
 
