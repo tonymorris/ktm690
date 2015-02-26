@@ -1,9 +1,13 @@
 * move wheel spokes 1.2mm to right
 
     * Ash's Spoked Wheels
+
       http://asw.com.au/
+
       ashspokedwheelz@bigpond.com
+
       0732626447
+      
       35 Crosby Road Albion Brisbane QLD 4010
       
 * paint handguards
