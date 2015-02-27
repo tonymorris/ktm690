@@ -1,3 +1,5 @@
+* Fork leg protectors (7800109420030)
+
 * normally closed (NC) magnetic switch
 
 * Factory service (6000km)
