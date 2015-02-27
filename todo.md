@@ -1,3 +1,5 @@
+* normally closed (NC) magnetic switch
+
 * Factory service (6000km)
 
 * move wheel spokes 1.2mm to right
