@@ -18,12 +18,6 @@
 
     * make lens (plexiglass/lexan)
 
-* Replace imperial bolts with metric
-
-    * front axle sliders
-
-    * fuel tank lower mount
-
 * Fit SR10 + Uniden
 
     * Consider better handset (GME TX6150 5 watt) and [SR10 cable](http://www.prestigecom.net.au/SENA-SR10-Twoway-Radio-Adaptor-suit-GME-TX685-TX6150)
