@@ -1,11 +1,5 @@
 * Fork leg protectors (7800109420030)
-
-* normally closed (NC) magnetic switch
-
-* Factory service (6000km)
       
-* paint handguards
-
 * seat cover
 
 * highway pegs
@@ -27,8 +21,6 @@
 * first aid
 
 * camping gear
-
-* SPOT
 
 ----
 
@@ -58,8 +50,14 @@
 
 * Fix front supermoto wheel *20150226*
 
+* Factory service (6000km) *20150303*
+
+* paint handguards *20150227*
+
 ----
 
 # Not doing
 
 * Replace grips
+
+* SPOT
