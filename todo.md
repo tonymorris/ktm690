@@ -1,4 +1,6 @@
 * Fork leg protectors (7800109420030)
+
+* spare air filter
       
 * seat cover
 
