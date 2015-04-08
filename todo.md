@@ -1,5 +1,3 @@
-* Fork leg protectors (7800109420030)
-
 * spare air filter
 
 * replace rear wheel spacers for SM wheels
@@ -65,3 +63,5 @@
 * Replace grips
 
 * SPOT
+
+* Fork leg protectors (7800109420030)
