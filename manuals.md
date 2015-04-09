@@ -41,7 +41,7 @@ Manuals
 
     * 2012 Enduro R EU, Enduro R AUS/UK, Enduro R USA
 
-      [*12_3206126_de_RM 12.4MB*](https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/DEUTSCH/12_3206125_de_RM.pdf)
+      [*12_3206125_de_RM 12.4MB*](https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/DEUTSCH/12_3206125_de_RM.pdf)
 
     * 2012 SMC R EU, SMC R AUS/UK
 
@@ -99,7 +99,7 @@ Manuals
 
     * 2012 Enduro R EU, Enduro R AUS/UK, Enduro R USA
 
-      [*12_3206126_en_RM 12.4MB*](https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/ENGLISCH/12_3206125_en_RM.pdf)
+      [*12_3206125_en_RM 12.4MB*](https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/ENGLISCH/12_3206125_en_RM.pdf)
 
     * 2012 SMC R EU, SMC R AUS/UK
 
@@ -157,7 +157,7 @@ Manuals
 
     * 2012 Enduro R EU, Enduro R AUS/UK, Enduro R USA
 
-      [*12_3206126_fr_RM 12.4MB*](https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/FRANZOESISCH/12_3206125_fr_RM.pdf)
+      [*12_3206125_fr_RM 12.4MB*](https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/FRANZOESISCH/12_3206125_fr_RM.pdf)
 
     * 2012 SMC R EU, SMC R AUS/UK
 
@@ -215,7 +215,7 @@ Manuals
 
     * 2012 Enduro R EU, Enduro R AUS/UK, Enduro R USA 
 
-      [*12_3206126_it_RM 12.4MB*](https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/ITALIENISCH/12_3206125_it_RM.pdf)
+      [*12_3206125_it_RM 12.4MB*](https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/ITALIENISCH/12_3206125_it_RM.pdf)
 
     * 2012 SMC R EU, SMC R AUS/UK 
 
@@ -273,7 +273,7 @@ Manuals
 
     * 2012 Enduro R EU, Enduro R AUS/UK, Enduro R USA 
 
-      [*12_3206126_es_RM 12.4MB*](https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/SPANISCH/12_3206125_es_RM.pdf)
+      [*12_3206125_es_RM 12.4MB*](https://dl.dropboxusercontent.com/u/7810909/media/manuals/ktm690/ktm_repairmanual2008-2014_3206193_032014/SPANISCH/12_3206125_es_RM.pdf)
 
     * 2012 SMC R EU, SMC R AUS/UK 
 
