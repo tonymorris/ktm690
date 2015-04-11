@@ -1,5 +1,3 @@
-* Drift helmet camera
-
 * make box
  
 * spare air filter
@@ -59,6 +57,8 @@
 * Factory service (6000km) *20150303*
 
 * paint handguards *20150227*
+
+* Drift helmet camera Stealth 2 *20150410*
 
 ----
 
