@@ -1,3 +1,8 @@
+# Mounting
+
+* Pelican mounting system  
+  http://www.backroadequipment.com/how-to-mount-a-pelican-case-to-your-klr-650/
+
 # Wiring
 
 #### Always powered
