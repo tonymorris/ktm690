@@ -13,3 +13,4 @@
 * ?Keep wifi hotspot running at all times
 * ?Boot on USB power (if not, power button accessible)
 * ?Root
+* Low-voltage circuit cut-out on 12V system
