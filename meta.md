@@ -54,7 +54,9 @@ Stock No: 216501
 
 Salesperson: Richard McKibben
 
-### Tyres
+----
+
+##### Tyres
 
 * Enduro
 
@@ -68,7 +70,7 @@ Salesperson: Richard McKibben
 
     * Rear J 4.25 x 17 36H
 
-# Spark Plug
+##### Spark Plug
 
 * NGK LKAR8BI-9 `(60139093000)`
 * NGK LMAR7A-9 `(69139093000)`
