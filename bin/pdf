@@ -5,7 +5,7 @@ set -e
 mkdir -p "dist"
 
 pandoc="./.cabal-sandbox/bin/pandoc"
-files="20141005-damage accessory-wiring modifications manuals meta parts purchase-cost smc-conversion todo 20161015-oopsie"
+files="20141005-damage accessory-wiring modifications manuals meta parts purchase-cost smc-conversion todo 20161015-oopsie safari-tank-fitment"
 
 for doc in $files $etc
 do
