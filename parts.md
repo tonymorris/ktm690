@@ -128,7 +128,7 @@ KTM 690 Enduro R Parts
 
 # Air intake
 
-  * Unfilter foam
+  * Unifilter foam
 
     * [uniflow.com.au](http://www.uniflow.com.au/contents/en-us/d73.html) **AUD58.50**
 
