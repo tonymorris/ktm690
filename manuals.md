@@ -1,7 +1,7 @@
 Manuals
 =======
 
-*[This publication is a protest.](https://gist.github.com/anonymous/f6411de3e7c4e8ec2461)*
+*[This publication is a protest.](https://gist.github.com/tonymorris/d369bfd4a40d41325a0eb132748208a5)*
 
 ### KTM REPAIR MANUAL 2008-2014
 
