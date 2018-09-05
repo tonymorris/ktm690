@@ -42,6 +42,8 @@
 
 * Doubletake mirrors with RAM mounts
 
+* Koubalink KTM8-1 lowering link
+
 * AN-4 Stainless Steel/Nylon Braided fuel line
 
 * RAM mounts
