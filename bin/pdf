@@ -2,14 +2,13 @@
 
 set -e
 
-mkdir -p "dist"
+pandoc="pandoc"
+files="2014-sale-accessories 2018-ktm-todo accessory-wiring install-safari-tank install-scotts-dampener meta modifications smc-conversion spark-plug toolkit-existing tyres"
 
-pandoc="./.cabal-sandbox/bin/pandoc"
-files="20141005-damage accessory-wiring modifications manuals meta parts purchase-cost smc-conversion todo 20161015-oopsie safari-tank-fitment"
+mkdir -p "dist"
 
 for doc in $files $etc
 do
   echo "$doc"
   $pandoc "$doc".md -o dist/"$doc".pdf --tab-stop=2
 done
-

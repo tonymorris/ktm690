@@ -1,6 +1,6 @@
 ### Model
 
-2014 KTM 690 Enduro R
+2018 KTM 690 Enduro R
 
 ### Colour
 
@@ -8,71 +8,38 @@ White
 
 ### VIN
 
-`VBKLET409EM765961`
+`VBKLET409JM716043`
 
 ### Engine Number
 
-`476014341`
+`876011943`
 
 ### Build date
 
-03/2014
+`12/17`
 
 ### Model Year
 
-2014
+`2018`
 
 ### Registration
 
-`619MS`
+`222RR`
 
 ### Purchase date
 
-20140630
-
-### Key code
-
-`8901`
+20181228
 
 ### Dealer
 
-TeamMoto Virginia
+Motorcycles R Us
 
-Address: 1916 Sandgate Rd Virginia Q 4014
+Address: 112 Kingston Rd Underwood Q 4119
 
-Phone: 0732592900
+Phone: 32087999
 
-Email: svsales@teammoto.com.au
+Email: mike@motorcyclesrus.com.au
 
-Licence: 1803685
+Stock No: 59344
 
-ABN: 19066876793
-
-Customer No: MOR094
-
-Stock No: 216501
-
-Salesperson: Richard McKibben
-
-----
-
-##### Tyres
-
-* Enduro
-
-    * Front 90/90-21 Metzeler Enduro 3
-
-    * Rear 140/80-18 Metzeler Enduro 3
-
-* SMC Wheels (Warp 9)
-
-    * Front J 17 x MT3.50
-
-    * Rear J 4.25 x 17 36H
-
-##### Spark Plug
-
-* NGK LKAR8BI-9 `(60139093000)`
-* NGK LMAR7A-9 `(69139093000)`
-
-* Spark plug electrode gap: `0.9 mm (0.035 in)`
+Salesperson: Mike White
