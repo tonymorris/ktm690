@@ -3,4 +3,4 @@
 * KTM touring screen
 * Barkbusters
 * Continental TKC80 tyres
-
+* Registration expiry 15/08/2019
