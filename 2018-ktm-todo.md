@@ -1,19 +1,19 @@
-* Bash plate
+* ~~Bash plate~~
+* ~~Rear spools~~
+* ~~Windshield~~
+* ~~Headlight bulb~~
+* Wings muffler
+* Safari tank
+* Heated grips
+* Fuel dongle
+* Tank reinforcement
+* Steering dampener
 * Barkbusters
 * Front indicators
 * Spot lights
-* Headlight bulb
-* Heated grips
 * Rear rack
-* Safari tank
-* Wings muffler
 * Front spools
-* Rear spools
-* Steering dampener
 * Mirrors
-* Windshield
-* Fuel dongle
-* Tank reinforcement
 * Number plate mount
 * Lowering link
 * Lower forks
