@@ -22,4 +22,5 @@
 * Supermotard
   * Fork leg protectors
   * Speedometer adjust
-  
+* Notify insurance
+ 
