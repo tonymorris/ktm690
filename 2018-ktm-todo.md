@@ -3,7 +3,7 @@
 * Front indicators
 * Spot lights
 * Headlight bulb
-* Headted grips
+* Heated grips
 * Rear rack
 * Safari tank
 * Wings muffler
