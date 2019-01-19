@@ -4,21 +4,21 @@
 * ~~Headlight bulb~~
 * ~~Wings muffler~~
 * ~~Safari tank~~
-* Heated grips
+* ~~Steering dampener~~
 * Fuel dongle
 * Tank reinforcement
-* ~~Steering dampener~~
-* Barkbusters
-* Front indicators
+* Heated grips
+* Number plate mount
+* Vinyl
 * Spot lights
-* Rear rack
 * Front spools
 * Mirrors
-* Number plate mount
+* Front indicators
+* Barkbusters
+* Rear rack
 * Lowering link
 * Lower forks
 * Phone charger
-* Vinyl
 * Supermotard
   * Fork leg protectors
   * Speedometer adjust
