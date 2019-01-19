@@ -2,12 +2,12 @@
 * ~~Rear spools~~
 * ~~Windshield~~
 * ~~Headlight bulb~~
-* Wings muffler
-* Safari tank
+* ~~Wings muffler~~
+* ~~Safari tank~~
 * Heated grips
 * Fuel dongle
 * Tank reinforcement
-* Steering dampener
+* ~~Steering dampener~~
 * Barkbusters
 * Front indicators
 * Spot lights
