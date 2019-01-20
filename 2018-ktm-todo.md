@@ -5,7 +5,7 @@
 * ~~Wings muffler~~
 * ~~Safari tank~~
 * ~~Steering dampener~~
-* ~Fuel dongle~~
+* ~~Fuel dongle~~
 * Tank reinforcement
 * Heated grips
 * Number plate mount
