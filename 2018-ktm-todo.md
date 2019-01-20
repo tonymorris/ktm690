@@ -19,6 +19,11 @@
 * Lowering link
 * Lower forks
 * Phone charger
+* Remove reflectors
+* Quick docs
+  * speedo adjust
+  * time adjust
+  * bad fuel dongle
 * Supermotard
   * Fork leg protectors
   * Speedometer adjust
