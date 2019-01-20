@@ -6,7 +6,8 @@
 * ~~Safari tank~~
 * ~~Steering dampener~~
 * ~~Fuel dongle~~
-* Tank reinforcement
+* ~~Tank reinforcement~~
+* ~~Remove reflectors~~
 * Heated grips
 * Number plate mount
 * Vinyl
@@ -19,7 +20,6 @@
 * Lowering link
 * Lower forks
 * Phone charger
-* Remove reflectors
 * Quick docs
   * speedo adjust
   * time adjust
