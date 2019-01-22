@@ -26,6 +26,6 @@
   * bad fuel dongle
 * Supermotard
   * Fork leg protectors
-  * Speedometer adjust
+  * ~~Speedometer adjust~~
 * Notify insurance
  
