@@ -8,17 +8,26 @@
 * ~~Fuel dongle~~
 * ~~Tank reinforcement~~
 * ~~Remove reflectors~~
+* ~~Lowering link~~
+* ~~Lower forks~~
+* Pillion pegs
 * Heated grips
 * Number plate mount
 * Vinyl
+  * fork protectors
+  * rear fairing
+  * luggage box
+  * frame
+  * safari tank
+  * swingarm
+  * engine case?
+  * under fuel tank
 * Spot lights
 * Front spools
 * Mirrors
 * Front indicators
 * Barkbusters
 * Rear rack
-* Lowering link
-* Lower forks
 * Phone charger
 * Quick docs
   * speedo adjust
@@ -28,4 +37,3 @@
   * Fork leg protectors
   * ~~Speedometer adjust~~
 * Notify insurance
- 
