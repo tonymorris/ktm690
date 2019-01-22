@@ -30,10 +30,10 @@
 * Barkbusters
 * Rear rack
 * Phone charger
-* Quick docs
-  * speedo adjust
-  * time adjust
-  * bad fuel dongle
+* ~~Quick docs~~
+  * ~~speedo adjust~~
+  * ~~time adjust~~
+  * ~~bad fuel dongle~~
 * Supermotard
   * Fork leg protectors
   * ~~Speedometer adjust~~
