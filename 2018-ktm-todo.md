@@ -22,6 +22,7 @@
   * swingarm
   * engine case?
   * under fuel tank
+  * rims
 * Spot lights
 * Front spools
 * Mirrors
