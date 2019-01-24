@@ -10,8 +10,8 @@
 * ~~Remove reflectors~~
 * ~~Lowering link~~
 * ~~Lower forks~~
+* ~~Heated grips~~
 * Pillion pegs
-* Heated grips
 * Number plate mount
 * Vinyl
   * fork protectors
