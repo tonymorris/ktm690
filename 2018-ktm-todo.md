@@ -11,6 +11,7 @@
 * ~~Lowering link~~
 * ~~Lower forks~~
 * ~~Heated grips~~
+* ~~Barkbusters~~
 * Pillion pegs
 * Number plate mount
 * Vinyl
@@ -27,7 +28,6 @@
 * Front spools
 * Mirrors
 * Front indicators
-* Barkbusters
 * Rear rack
 * Phone charger
 * ~~Quick docs~~
