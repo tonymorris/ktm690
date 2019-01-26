@@ -16,7 +16,7 @@
 * Number plate mount
 * Vinyl
   * fork protectors
-  * rear fairing
+  * ~~rear fairing~~
   * luggage box
   * frame
   * safari tank
@@ -28,7 +28,7 @@
 * Front spools
 * Mirrors
 * Front indicators
-* Rear rack
+* ~~Rear rack~~
 * Phone charger
 * ~~Quick docs~~
   * ~~speedo adjust~~
