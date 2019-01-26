@@ -19,7 +19,7 @@
   * ~~rear fairing~~
   * luggage box
   * frame
-  * safari tank
+  * ~~safari tank~~
   * swingarm
   * engine case?
   * under fuel tank
