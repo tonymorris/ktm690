@@ -23,6 +23,7 @@
   * swingarm
   * engine case?
   * rims
+  * bash plate
 * Spot lights
 * ~~Front spools~~
 * Mirrors
