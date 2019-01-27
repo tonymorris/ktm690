@@ -12,20 +12,19 @@
 * ~~Lower forks~~
 * ~~Heated grips~~
 * ~~Barkbusters~~
-* Pillion pegs
+* ~~Pillion pegs~~
 * Number plate mount
 * Vinyl
-  * fork protectors
+  * ~~fork protectors~~
   * ~~rear fairing~~
   * luggage box
   * frame
   * ~~safari tank~~
   * swingarm
   * engine case?
-  * under fuel tank
   * rims
 * Spot lights
-* Front spools
+* ~~Front spools~~
 * Mirrors
 * Front indicators
 * ~~Rear rack~~
