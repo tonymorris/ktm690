@@ -13,7 +13,17 @@
 * ~~Heated grips~~
 * ~~Barkbusters~~
 * ~~Pillion pegs~~
-* Number plate mount
+* ~~Mirrors~~
+* ~~Front spools~~
+* ~~Rear rack~~
+* ~~Quick docs~~
+  * ~~speedo adjust~~
+  * ~~time adjust~~
+  * ~~bad fuel dongle~~
+* Supermotard
+  * Install wheels
+  * ~~Fork leg protectors~~
+  * ~~Speedometer adjust~~
 * Vinyl
   * ~~fork protectors~~
   * ~~rear fairing~~
@@ -24,17 +34,7 @@
   * engine case?
   * rims
   * bash plate
+* Number plate mount
 * Spot lights
-* ~~Front spools~~
-* Mirrors
 * Front indicators
-* ~~Rear rack~~
-* Phone charger
-* ~~Quick docs~~
-  * ~~speedo adjust~~
-  * ~~time adjust~~
-  * ~~bad fuel dongle~~
-* Supermotard
-  * Fork leg protectors
-  * ~~Speedometer adjust~~
 * Notify insurance
