@@ -34,7 +34,6 @@
   * engine case?
   * rims
   * bash plate
-* Key surround
 * Number plate mount
 * Spot lights
 * Front indicators
