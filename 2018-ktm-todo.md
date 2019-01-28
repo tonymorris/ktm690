@@ -27,7 +27,7 @@
 * Vinyl
   * ~~fork protectors~~
   * ~~rear fairing~~
-  * luggage box
+  * ~~luggage box~~
   * frame
   * ~~safari tank~~
   * swingarm
