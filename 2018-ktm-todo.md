@@ -38,3 +38,13 @@
 * Spot lights
 * Front indicators
 * Notify insurance
+
+----
+
+* Bolt shop
+  * 8x M8 bolts for handguards
+  * 8x black powdercoat bolts with 10mm head for spotlights
+  * shorter spotlight mount bolts
+  * Take
+    * spotlight with bolts
+    * M6 handguard bolts
