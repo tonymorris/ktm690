@@ -43,8 +43,9 @@
 
 * Bolt shop
   * 8x M8 bolts for handguards
-  * 8x black powdercoat bolts with 10mm head for spotlights
+  * 8x black powdercoat bolts with 10mm head for spotlights, slightly shorter
   * shorter spotlight mount bolts
+  * drill bit to cut M8 thread
   * Take
     * spotlight with bolts
     * M6 handguard bolts
