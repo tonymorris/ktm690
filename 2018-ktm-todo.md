@@ -56,4 +56,5 @@
   * vinyl oledone mounts
   * adjust spotlight angles
 * ~~Front indicators~~
+* cable tie wiring
 * Notify insurance
