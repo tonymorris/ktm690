@@ -35,6 +35,24 @@
   * rims
   * bash plate
 * Number plate mount
+  * measure size numberplate mount
+  * cut and drill numberplate mount
+  * wire numberplate light
+  * mount numberplate light
+  * vinyl numberplate mount
+  * mount numberplate
 * Spot lights
-* Front indicators
+  * wire L Stedi pair
+  * wire R Stedi pair
+  * measure L angle-aluminium mount
+  * cut L angle-aluminium mount
+  * measure R angle-aluminium mount
+  * cut R angle-aluminium mount
+  * mount L oledone pair
+  * mount R oledone pair
+  * wire L oledone pair to Stedi pair
+  * wire R oledone pair to Stedi pair
+  * wire L/R side to headlight
+  * vinyl oledone mounts
+* ~~Front indicators~~
 * Notify insurance
