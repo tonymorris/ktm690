@@ -54,5 +54,6 @@
   * wire R oledone pair to Stedi pair
   * wire L/R side to headlight
   * vinyl oledone mounts
+  * adjust spotlight angles
 * ~~Front indicators~~
 * Notify insurance
