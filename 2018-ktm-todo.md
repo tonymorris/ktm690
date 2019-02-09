@@ -28,22 +28,22 @@
   * ~~fork protectors~~
   * ~~rear fairing~~
   * ~~luggage box~~
-  * frame
+  * ~~frame~~
   * ~~safari tank~~
-  * swingarm
-  * engine case?
+  * ~~swingarm~~
+  * ~~engine case?~~
   * rims
-  * bash plate
-* Number plate mount
-  * measure size numberplate mount
-  * cut and drill numberplate mount
-  * wire numberplate light
-  * mount numberplate light
-  * vinyl numberplate mount
-  * mount numberplate
+  * ~~bash plate~~
+* ~~Number plate mount~~
+  * ~~measure size numberplate mount~~
+  * ~~cut and drill numberplate mount~~
+  * ~~wire numberplate light~~
+  * ~~mount numberplate light~~
+  * ~~vinyl numberplate mount~~
+  * ~~mount numberplate~~
 * Spot lights
-  * wire L Stedi pair
-  * wire R Stedi pair
+  * ~~wire L Stedi pair~~
+  * ~~wire R Stedi pair~~
   * measure L angle-aluminium mount
   * cut L angle-aluminium mount
   * measure R angle-aluminium mount
