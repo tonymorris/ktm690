@@ -53,6 +53,7 @@
   * wire L oledone pair to Stedi pair
   * wire R oledone pair to Stedi pair
   * wire L/R side to headlight
+  * sugru oledone seals
   * vinyl oledone mounts
   * adjust spotlight angles
 * ~~Front indicators~~
