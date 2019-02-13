@@ -44,16 +44,16 @@
 * Spot lights
   * ~~wire L Stedi pair~~
   * ~~wire R Stedi pair~~
-  * measure L angle-aluminium mount
-  * cut L angle-aluminium mount
-  * measure R angle-aluminium mount
-  * cut R angle-aluminium mount
+  * ~~measure L angle-aluminium mount~~
+  * ~~cut L angle-aluminium mount~~
+  * ~~measure R angle-aluminium mount~~
+  * ~~cut R angle-aluminium mount~~
   * mount L oledone pair
   * mount R oledone pair
-  * wire L oledone pair to Stedi pair
-  * wire R oledone pair to Stedi pair
+  * ~~wire L oledone pair to Stedi pair~~
+  * ~~wire R oledone pair to Stedi pair~~
   * wire L/R side to headlight
-  * sugru oledone seals
+  * ~~sugru oledone seals~~
   * vinyl oledone mounts
   * adjust spotlight angles
 * ~~Front indicators~~
