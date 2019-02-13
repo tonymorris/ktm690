@@ -54,8 +54,13 @@
   * ~~wire R oledone pair to Stedi pair~~
   * wire L/R side to headlight
   * ~~sugru oledone seals~~
+  * repair heat shrink on one spotlight
+  * remove deutsch plug so headlight will go back on
+  * redo vinyl on inner spotlight mounts
   * vinyl oledone mounts
   * adjust spotlight angles
 * ~~Front indicators~~
 * cable tie wiring
 * Notify insurance
+
+
