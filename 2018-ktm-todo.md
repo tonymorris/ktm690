@@ -48,11 +48,11 @@
   * ~~cut L angle-aluminium mount~~
   * ~~measure R angle-aluminium mount~~
   * ~~cut R angle-aluminium mount~~
-  * mount L oledone pair
-  * mount R oledone pair
+  * ~~mount L oledone pair~~
+  * ~~mount R oledone pair~~
   * ~~wire L oledone pair to Stedi pair~~
   * ~~wire R oledone pair to Stedi pair~~
-  * wire L/R side to headlight
+  * ~~wire L/R side to headlight~~
   * ~~sugru oledone seals~~
   * repair heat shrink on one spotlight
   * remove deutsch plug so headlight will go back on
