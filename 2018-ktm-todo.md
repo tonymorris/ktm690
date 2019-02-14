@@ -55,8 +55,8 @@
   * ~~wire L/R side to headlight~~
   * ~~sugru oledone seals~~
   * repair heat shrink on one spotlight
-  * remove deutsch plug so headlight will go back on
-  * redo vinyl on inner spotlight mounts
+  * ~~remove deutsch plug so headlight will go back on~~
+  * ~~redo vinyl on inner spotlight mounts~~
   * vinyl oledone mounts
   * black M6 nylon nuts
   * adjust spotlight angles
