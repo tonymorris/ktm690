@@ -1,2 +1,2 @@
-Documents relating to a 2014 KTM 690 Enduro R
+Documents relating to a 2018 KTM 690 Enduro R
 

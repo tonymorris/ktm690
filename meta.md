@@ -16,11 +16,11 @@ White
 
 ### Build date
 
-?
+`12/17`
 
 ### Model Year
 
-?
+`2018`
 
 ### Registration
 
@@ -29,10 +29,6 @@ White
 ### Purchase date
 
 20181228
-
-### Key code
-
-`?`
 
 ### Dealer
 
@@ -47,26 +43,3 @@ Email: mike@motorcyclesrus.com.au
 Stock No: 59344
 
 Salesperson: Mike White
-
-----
-
-##### Tyres
-
-* Enduro
-
-    * Front 90/90-21 Metzeler Enduro 3
-
-    * Rear 140/80-18 Metzeler Enduro 3
-
-* SMC Wheels (Warp 9)
-
-    * Front J 17 x MT3.50
-
-    * Rear J 4.25 x 17 36H
-
-##### Spark Plug
-
-* NGK LKAR8BI-9 `(60139093000)`
-* NGK LMAR7A-9 `(69139093000)`
-
-* Spark plug electrode gap: `0.9 mm (0.035 in)`
