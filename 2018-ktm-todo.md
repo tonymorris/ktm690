@@ -41,7 +41,7 @@
   * ~~mount numberplate light~~
   * ~~vinyl numberplate mount~~
   * ~~mount numberplate~~
-* Spot lights
+* ~~Spot lights~~
   * ~~wire L Stedi pair~~
   * ~~wire R Stedi pair~~
   * ~~measure L angle-aluminium mount~~
@@ -57,11 +57,18 @@
   * repair heat shrink on one spotlight
   * ~~remove deutsch plug so headlight will go back on~~
   * ~~redo vinyl on inner spotlight mounts~~
-  * vinyl oledone mounts
+  * ~~vinyl oledone mounts~~
   * black M6 nylon nuts
-  * adjust spotlight angles
 * ~~Front indicators~~
-* cable tie wiring
+* ~~cable tie wiring~~
+* adjust 2x spotlight angles
+  * modify mount to allow lowering
+  * fix rattle in windscreen
+  * GPS power
+  * fix R barkbuster
+  * fix R vinyl fuel tank
+  * kickstand 7650312300033
+* Sena field reference
 * Notify insurance
 
 
