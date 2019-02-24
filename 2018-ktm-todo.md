@@ -65,9 +65,7 @@
 * fix rattle in windscreen
 * GPS power
 * fix R barkbuster
-* fix R vinyl fuel tank
-* kickstand 7650312300033
+* ~~fix R vinyl fuel tank~~
+* ~~kickstand 7650312300033~~
 * Sena field reference
-* Notify insurance
-
-
+* ~~Notify insurance~~
