@@ -69,4 +69,6 @@
 * ~~kickstand 7650312300033~~
 * ~~toolkit~~
 * Sena field reference
+* Replace steering dampener controls
+* Wash
 * ~~Notify insurance~~
