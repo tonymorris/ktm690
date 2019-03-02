@@ -20,11 +20,11 @@
   * ~~speedo adjust~~
   * ~~time adjust~~
   * ~~bad fuel dongle~~
-* Supermotard
+* ~~Supermotard~~
   * Install wheels
   * ~~Fork leg protectors~~
   * ~~Speedometer adjust~~
-* Vinyl
+* ~~Vinyl~~
   * ~~fork protectors~~
   * ~~rear fairing~~
   * ~~luggage box~~
@@ -32,7 +32,7 @@
   * ~~safari tank~~
   * ~~swingarm~~
   * ~~engine case?~~
-  * rims
+  * ~~rims~~
   * ~~bash plate~~
 * ~~Number plate mount~~
   * ~~measure size numberplate mount~~
@@ -58,17 +58,17 @@
   * ~~remove deutsch plug so headlight will go back on~~
   * ~~redo vinyl on inner spotlight mounts~~
   * ~~vinyl oledone mounts~~
-  * black M6 nylon nuts
+  * ~~black M6 nylon nuts~~
 * ~~Front indicators~~
 * ~~cable tie wiring~~
-* adjust 2x spotlight angles (modify mount to allow lowering)
+* ~~adjust 2x spotlight angles (modify mount to allow lowering)~~
 * ~~fix rattle in windscreen~~
-* GPS power
-* fix R barkbuster
+* ~~GPS power~~
+* ~~fix R barkbuster~~
 * ~~fix R vinyl fuel tank~~
 * ~~kickstand 7650312300033~~
 * ~~toolkit~~
 * Sena field reference
-* Replace steering dampener controls
+* ~~Replace steering dampener controls~~
 * Wash
 * ~~Notify insurance~~
