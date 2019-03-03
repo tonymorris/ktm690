@@ -1,1 +1,1 @@
-Moved to https://github.com/tonymorris/ktm690-manuals
+Moved to http://manuals.ktm690.vfrg.site/
